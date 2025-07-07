@@ -3,5 +3,6 @@
         "mpimg",
         "mplot",
         "toolkits"
-    ]
+    ],
+    "python.analysis.typeCheckingMode": "standard"
 }
