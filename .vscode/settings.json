@@ -2,6 +2,7 @@
     "cSpell.words": [
         "mpimg",
         "mplot",
+        "skimage",
         "toolkits"
     ],
     "python.analysis.typeCheckingMode": "standard"
