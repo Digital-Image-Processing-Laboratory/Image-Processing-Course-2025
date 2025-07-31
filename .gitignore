@@ -4,3 +4,6 @@ Lab4_NN-and-CNN/thai-handwriting-number.appspot.com
 Lab4_NN-and-CNN/runs/
 Lab4_NN-and-CNN/model.pth
 test/
+confusion_matrices/
+checkpoints/
+runs/
